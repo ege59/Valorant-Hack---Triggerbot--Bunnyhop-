@@ -2,7 +2,7 @@
 
 1- Aşağıdaki indirme linkinden arşiv dosyasını indirin içindeki dosyaları masaüstüne atın.
 
-2- AutoHotKey programını indirip kurun. (buradan)
+2- AutoHotKey programını indirip kurun. [(Buradan)](https://www.autohotkey.com/)
 
 3- Valorant'ı açın.
 
