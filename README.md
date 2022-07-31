@@ -1,4 +1,4 @@
-# Valorant-Hack---Triggerbot--Bunnyhop-
+# Valorant-Hack Triggerbot Bunnyhop
 
 1- Aşağıdaki indirme linkinden arşiv dosyasını indirin içindeki dosyaları masaüstüne atın.
 
